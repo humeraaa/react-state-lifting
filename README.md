@@ -29,5 +29,7 @@ my-likes-app/
 - Start the development server:             npm run dev
 
 
+[React useState Practice Exercises](https://www.clientside.dev/blog/react-use-state-practice-exercises)
+
 ## Reference
 [![Edit on CodeSandbox](https://img.shields.io/badge/CodeSandbox-Live-blue?logo=codesandbox)](https://codesandbox.io/p/sandbox/p7y3jk8pq0?file=%2Fsrc%2Findex.js)
