@@ -9,7 +9,7 @@ This project illustrates state lifting in React by centralizing state in a paren
 ![Alt text](src/assets/parent-child.jpg)
 
 ## Project Structure
-![Alt text](src/assets/proj-structure.jpg)
+![Alt text](src/assets/proj-structure.png)
 
 ## Why State Lifting?
 - Avoids redundant state duplication.
