@@ -12,19 +12,14 @@ This project illustrates state lifting in React by centralizing state in a paren
 ![Alt text](src/assets/proj-structure.jpg)
 
 ## Why State Lifting?
-Avoids redundant state duplication.
-Ensures consistent data synchronization.
-Enhances code reusability and separation of concerns.
+- Avoids redundant state duplication.
+- Ensures consistent data synchronization.
+- Enhances code reusability and separation of concerns.
 
 ## Running the Project
-Clone the repository:                     git clone https://github.com/yourusername/my-likes-app.git
-Navigate to the project directory:        cd my-likes-app
-Install dependencies:                    npm install
-Start the development server:            npm run dev
-Navigate to http://localhost:5173/ (or the URL shown in the terminal).
-
-## Reference
-https://codesandbox.io/p/sandbox/p7y3jk8pq0?file=%2Fsrc%2Findex.js%3A23%2C9-23%2C77
-
+- Clone the repository:                     git clone https://github.com/yourusername/my-likes-app.git
+- Navigate to the project directory:        cd my-likes-app
+- Install dependencies:                     npm install
+- Start the development server:             npm run dev
 
 
