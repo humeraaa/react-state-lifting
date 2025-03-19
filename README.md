@@ -9,7 +9,13 @@ This project illustrates state lifting in React by centralizing state in a paren
 ![Alt text](src/assets/parent-child.jpg)
 
 ## Project Structure
-![Alt text](src/assets/proj-structure.png)
+my-likes-app/  
+│── src/  
+│   ├── App.jsx          # Root component rendering ParentChild  
+│   ├── ParentChild.jsx  # Contains Parent and Child components  
+│   ├── Likes.jsx        # Standalone Likes component (original implementation)  
+│   ├── index.css        # Styling (if applicable)  
+│   ├── main.jsx         # Entry point  
 
 ## Why State Lifting?
 - Avoids redundant state duplication.
